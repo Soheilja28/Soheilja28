@@ -1,7 +1,7 @@
 # 💫 About Me:
 In the fast-paced world of technology, Soheil Jalali, as a programmer, is trying to move the boundaries of creativity and innovation.<br><br>By mastering programming languages such as Python, C#, C++, JavaScript, I have been able to answer many technical challenges. <br>I'm well aware that every line of code is an opportunity to solve a puzzle and create solutions that make life easir.<br><br>My goal is to design attractive websites and develop practical applications, and I am always looking for new experiences.<br>
 
-visit our [website](https://tira-dev.com/)
+visit our [website](https://tira-dev.com/)😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/tiradev_tm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soheil-jalali-1a9213301/) 
